@@ -75,9 +75,9 @@ AI / ML        Azure OpenAI  ·  Azure Bot Service  ·  RAG Pipelines  ·  Cogni
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rangavarma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rangavarma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranga%20Varma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranga-varma-390ba9267/)
 [![Email](https://img.shields.io/badge/Email-varmagoud01@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:varmagoud01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-varmagoud.dev-7ec8e3?style=flat&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-7ec8e3?style=flat&logo=vercel&logoColor=white)](https://rvarma01.github.io/portfolio/)
 [![Phone](https://img.shields.io/badge/Phone-779--379--2834-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+17793792834)
 
 ---
