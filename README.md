@@ -1,8 +1,12 @@
 # Hi, I'm Varma Goud 👋
 
-Senior .NET Full Stack Developer | .NET 8 | Azure | Microservices | SQL Server | React | Angular | Healthcare & Financial Services
-I build enterprise-grade distributed systems that handle millions of transactions daily — across healthcare and finance platforms, using .NET, Azure, and microservices at scale.
+Senior .NET Full Stack Developer | Azure | Microservices | Healthcare & Financial Services
 
+📍 Chicago, IL
+
+## Tech Stack
+
+C# • ASP.NET Core • .NET 8 • Azure • SQL Server • React • Angular • Docker • Kubernetes • Azure DevOps • Redis • Azure Service Bus
 ---
 
 ## 🔧 Tech Stack
