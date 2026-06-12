@@ -1,7 +1,6 @@
 # Hi, I'm Varma Goud 👋
 
-**Senior .NET Full Stack Developer · Cloud Architect · Chicago, IL**
-
+Senior .NET Full Stack Developer | .NET 8 | Azure | Microservices | SQL Server | React | Angular | Healthcare & Financial Services
 I build enterprise-grade distributed systems that handle millions of transactions daily — across healthcare and finance platforms, using .NET, Azure, and microservices at scale.
 
 ---
